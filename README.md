@@ -1,2 +1,6 @@
 # MineSweeper
-Learned to make this little game
+
+Made using HTML, CSS, and vanilla JS
+
+LIVE DEMO 
+> - https://razaj96.github.io/MineSweeper/
